@@ -12,6 +12,7 @@ Collection of my LeetCode solutions.
 | [0189-rotate-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -27,4 +28,12 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
