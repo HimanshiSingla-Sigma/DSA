@@ -2,8 +2,6 @@
 
 Collection of my LeetCode solutions.
 
-# LeetCode Topics
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
