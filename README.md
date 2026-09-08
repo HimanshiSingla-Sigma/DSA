@@ -7,6 +7,7 @@ Collection of my LeetCode solutions.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0189-rotate-array) |
@@ -31,6 +32,7 @@ Collection of my LeetCode solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
