@@ -19,6 +19,7 @@ Collection of my LeetCode solutions.
 | [0485-max-consecutive-ones](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Collection of my LeetCode solutions.
 | [0075-sort-colors](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -75,4 +77,8 @@ Collection of my LeetCode solutions.
 | ------- |
 | [0053-maximum-subarray](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
