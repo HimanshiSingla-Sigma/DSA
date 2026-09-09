@@ -87,4 +87,16 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
