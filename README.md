@@ -45,6 +45,7 @@ Collection of my LeetCode solutions.
 | [0001-two-sum](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -93,6 +94,7 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
