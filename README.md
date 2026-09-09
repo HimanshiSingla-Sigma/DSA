@@ -8,6 +8,7 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0075-sort-colors) |
@@ -91,6 +92,7 @@ Collection of my LeetCode solutions.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0014-longest-common-prefix) |
 | [1021-remove-outermost-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -105,4 +107,8 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
