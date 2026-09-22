@@ -10,6 +10,7 @@ Collection of my LeetCode solutions.
 | [0001-two-sum](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0075-sort-colors) |
@@ -165,6 +166,7 @@ Collection of my LeetCode solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Matrix
 |  |
