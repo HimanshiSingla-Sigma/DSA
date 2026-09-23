@@ -23,6 +23,7 @@ Collection of my LeetCode solutions.
 | [0485-max-consecutive-ones](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -69,6 +70,7 @@ Collection of my LeetCode solutions.
 | [0169-majority-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -82,6 +84,7 @@ Collection of my LeetCode solutions.
 | ------- |
 | [0053-maximum-subarray](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -143,10 +146,12 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -174,4 +179,16 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0074-search-a-2d-matrix) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
