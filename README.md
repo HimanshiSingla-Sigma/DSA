@@ -11,6 +11,7 @@ Collection of my LeetCode solutions.
 | [0014-longest-common-prefix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0075-sort-colors) |
@@ -55,6 +56,7 @@ Collection of my LeetCode solutions.
 | ------- |
 | [0001-two-sum](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0169-majority-element) |
@@ -69,6 +71,7 @@ Collection of my LeetCode solutions.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0242-valid-anagram) |
@@ -118,6 +121,7 @@ Collection of my LeetCode solutions.
 | [0008-string-to-integer-atoi](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0451-sort-characters-by-frequency) |
