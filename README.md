@@ -44,6 +44,7 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -187,6 +188,7 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0704-binary-search) |
 ## Matrix
@@ -237,4 +239,8 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
