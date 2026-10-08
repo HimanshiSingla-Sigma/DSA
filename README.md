@@ -24,6 +24,7 @@ Collection of my LeetCode solutions.
 | [0560-subarray-sum-equals-k](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1046-last-stone-weight) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -147,6 +148,7 @@ Collection of my LeetCode solutions.
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
