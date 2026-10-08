@@ -16,6 +16,7 @@ Collection of my LeetCode solutions.
 | [0053-maximum-subarray](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0136-single-number) |
@@ -37,6 +38,7 @@ Collection of my LeetCode solutions.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0283-move-zeroes) |
@@ -82,6 +84,7 @@ Collection of my LeetCode solutions.
 | ------- |
 | [0049-group-anagrams](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0451-sort-characters-by-frequency) |
