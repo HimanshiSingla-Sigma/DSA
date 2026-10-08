@@ -67,6 +67,7 @@ Collection of my LeetCode solutions.
 | [0205-isomorphic-strings](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -104,6 +105,7 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -133,6 +135,7 @@ Collection of my LeetCode solutions.
 | [0205-isomorphic-strings](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0796-rotate-string) |
