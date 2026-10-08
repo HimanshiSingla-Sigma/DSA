@@ -24,6 +24,7 @@ Collection of my LeetCode solutions.
 | [0189-rotate-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0485-max-consecutive-ones) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0912-sort-an-array) |
@@ -43,6 +44,7 @@ Collection of my LeetCode solutions.
 | [0189-rotate-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0443-string-compression) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-middle-of-the-linked-list](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -74,6 +76,7 @@ Collection of my LeetCode solutions.
 | [0383-ransom-note](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -88,6 +91,7 @@ Collection of my LeetCode solutions.
 | [0169-majority-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0912-sort-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -208,6 +212,7 @@ Collection of my LeetCode solutions.
 | [0035-search-insert-position](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0704-binary-search) |
 ## Matrix
 |  |
