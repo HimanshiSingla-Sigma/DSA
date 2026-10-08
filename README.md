@@ -40,6 +40,7 @@ Collection of my LeetCode solutions.
 | [0141-linked-list-cycle](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -139,6 +140,7 @@ Collection of my LeetCode solutions.
 | [0290-word-pattern](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1021-remove-outermost-parentheses) |
