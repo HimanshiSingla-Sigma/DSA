@@ -31,6 +31,7 @@ Collection of my LeetCode solutions.
 | [0912-sort-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1046-last-stone-weight) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -85,6 +86,7 @@ Collection of my LeetCode solutions.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -220,6 +222,7 @@ Collection of my LeetCode solutions.
 | [0209-minimum-size-subarray-sum](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -281,5 +284,6 @@ Collection of my LeetCode solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
