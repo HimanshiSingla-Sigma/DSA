@@ -32,6 +32,7 @@ Collection of my LeetCode solutions.
 | [0973-k-closest-points-to-origin](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1046-last-stone-weight) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -128,6 +129,7 @@ Collection of my LeetCode solutions.
 | ------- |
 | [0053-maximum-subarray](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Simulation
 |  |
 | ------- |
@@ -279,4 +281,5 @@ Collection of my LeetCode solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
