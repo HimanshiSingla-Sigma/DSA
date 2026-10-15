@@ -22,6 +22,7 @@ Collection of my LeetCode solutions.
 | [0136-single-number](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -81,6 +82,7 @@ Collection of my LeetCode solutions.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -213,6 +215,7 @@ Collection of my LeetCode solutions.
 | [0035-search-insert-position](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0704-binary-search) |
 ## Matrix
@@ -275,4 +278,5 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
