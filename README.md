@@ -87,6 +87,7 @@ Collection of my LeetCode solutions.
 | [0209-minimum-size-subarray-sum](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Collection of my LeetCode solutions.
 | [0451-sort-characters-by-frequency](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1208-get-equal-substrings-within-budget](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -223,6 +225,7 @@ Collection of my LeetCode solutions.
 | [0532-k-diff-pairs-in-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 ## Matrix
 |  |
 | ------- |
@@ -285,5 +288,6 @@ Collection of my LeetCode solutions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
