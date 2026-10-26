@@ -167,6 +167,7 @@ Collection of my LeetCode solutions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0225-implement-stack-using-queues) |
 | [1021-remove-outermost-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -254,6 +255,7 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -286,6 +288,7 @@ Collection of my LeetCode solutions.
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
