@@ -152,6 +152,7 @@ Collection of my LeetCode solutions.
 | [0014-longest-common-prefix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0290-word-pattern) |
@@ -169,6 +170,7 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0225-implement-stack-using-queues) |
