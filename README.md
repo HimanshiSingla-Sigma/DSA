@@ -166,6 +166,7 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -252,6 +253,7 @@ Collection of my LeetCode solutions.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
