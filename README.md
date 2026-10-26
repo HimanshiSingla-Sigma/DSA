@@ -148,6 +148,7 @@ Collection of my LeetCode solutions.
 | [0008-string-to-integer-atoi](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0242-valid-anagram) |
@@ -164,11 +165,13 @@ Collection of my LeetCode solutions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
