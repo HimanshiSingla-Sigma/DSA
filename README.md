@@ -157,6 +157,7 @@ Collection of my LeetCode solutions.
 | [0290-word-pattern](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0796-rotate-string) |
@@ -172,6 +173,7 @@ Collection of my LeetCode solutions.
 | [0155-min-stack](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0394-decode-string) |
 | [1021-remove-outermost-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -219,6 +221,7 @@ Collection of my LeetCode solutions.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0394-decode-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
