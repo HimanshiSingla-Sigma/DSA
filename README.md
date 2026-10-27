@@ -59,6 +59,7 @@ Collection of my LeetCode solutions.
 | [0069-sqrtx](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0224-basic-calculator) |
 | [0973-k-closest-points-to-origin](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1903-largest-odd-number-in-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
@@ -154,6 +155,7 @@ Collection of my LeetCode solutions.
 | [0049-group-anagrams](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0383-ransom-note) |
@@ -173,6 +175,7 @@ Collection of my LeetCode solutions.
 | [0071-simplify-path](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0394-decode-string) |
@@ -223,6 +226,7 @@ Collection of my LeetCode solutions.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0394-decode-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
