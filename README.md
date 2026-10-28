@@ -29,6 +29,7 @@ Collection of my LeetCode solutions.
 | [0532-k-diff-pairs-in-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -183,6 +184,7 @@ Collection of my LeetCode solutions.
 | [0227-basic-calculator-ii](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -318,4 +320,8 @@ Collection of my LeetCode solutions.
 | [1004-max-consecutive-ones-iii](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
