@@ -35,6 +35,7 @@ Collection of my LeetCode solutions.
 | [0977-squares-of-a-sorted-array](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1046-last-stone-weight) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -188,6 +189,7 @@ Collection of my LeetCode solutions.
 | [0901-online-stock-span](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -328,4 +330,5 @@ Collection of my LeetCode solutions.
 | ------- |
 | [0739-daily-temperatures](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
