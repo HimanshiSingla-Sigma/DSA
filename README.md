@@ -185,6 +185,7 @@ Collection of my LeetCode solutions.
 | [0232-implement-queue-using-stacks](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -278,6 +279,7 @@ Collection of my LeetCode solutions.
 | [0225-implement-stack-using-queues](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0901-online-stock-span) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -290,6 +292,7 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0901-online-stock-span) |
 ## Geometry
 |  |
 | ------- |
@@ -324,4 +327,5 @@ Collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/HimanshiSingla-Sigma/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
